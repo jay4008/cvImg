@@ -4,7 +4,7 @@
 folder_path="/Users/jayshah/Documents/shellScriptExp"
 
 # Counter to number the files
-count=3130
+count=4001
 
 # Loop through each file in the directory
 for file in "$folder_path"/*; do
